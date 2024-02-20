@@ -257,3 +257,100 @@ header {
     font-weight: 600;
     color: #fff;
 }
+
+
+/* number3 start */
+
+.number3 {
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 970px;
+}
+
+.number3_span {
+    color: #FF9619;
+}
+
+.number3_h2 {
+    font-size: 36px;
+    font-weight: 650;
+    color: #343434;
+
+}
+
+.number3_box {
+    width: 538px;
+    height: 247px;
+    background: #5b5b5b;
+    position: relative;
+    margin: 90px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.number3_orange {
+    width: 101px;
+    height: 55px;
+    background: #FF9619;
+    position: absolute;
+    margin-top: 80px;
+    margin-top: 244px;
+    margin-left: 360px;
+}
+
+.number3_img {
+    width: 100% !important;
+}
+
+.number3_h5 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    font-family: "Almarai", sans-serif;
+    text-align: center;
+    width: 33%;
+}
+
+.number3_p {
+    font-size: 17px;
+    font-weight: 550;
+    color: #ffffff;
+    text-align: center;
+    width: 94%;
+    opacity: 60%;
+    letter-spacing: 10%;
+}
+
+
+.main3_text {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main3_text {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main_h6 {
+    font-size: 25px;
+    font-weight: 300;
+    color: #343434;
+    font-family: "Almarai", sans-serif;
+    font-style: normal;
+}
+
+.main_h2 {
+    font-size: 144px;
+    font-weight: 550;
+    color: #343434;
+    opacity: 0.1;
+    font-family: "Almarai", sans-serif;
+    font-style: normal;
+}
