@@ -500,3 +500,32 @@ header {
     font-weight: 700;
     color: #ffffff;
 }
+
+
+/* section number6 start */
+
+.number6{
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 500px;
+}
+
+.number6_h2{
+    font-size: 176px;
+    font-weight: 650;
+    opacity: 0.1;
+    position: absolute;
+}
+
+.number6_p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #343434;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 300px;
+    margin-left: 60px;
+    width: 80%;
+}
