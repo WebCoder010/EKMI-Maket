@@ -648,3 +648,18 @@ header {
     display: flex;
     justify-content: space-between;
 }
+
+
+/* section number8 start */
+
+.number8{
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 600px;
+}
+
+.number8_img{
+    width: 270px;
+    height: 269px;
+}
