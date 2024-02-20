@@ -354,3 +354,35 @@ header {
     font-family: "Almarai", sans-serif;
     font-style: normal;
 }
+
+/* section number4 start */
+
+.number4 {
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 650px;
+
+}
+
+.number4_span {
+    color: #FF9619;
+}
+
+.number_img {
+    width: 100%;
+    height: 100%;
+}
+
+.number4_p {
+    text-align: center;
+    margin: 5px auto;
+}
+
+.number4_col {
+    background: #f2f2f2 !important;
+}
+
+.asd4{
+    margin: 70px auto !important;
+}
