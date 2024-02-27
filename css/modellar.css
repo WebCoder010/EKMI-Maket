@@ -10,7 +10,7 @@ header {
     max-width: 1920px;
     width: 100%;
     margin: auto;
-    height: 800px;
+    height: 380px;
 }
 
 .header_nav {
@@ -134,3 +134,73 @@ header {
     height: 140px;
 }
 
+.header_p{
+    font-size: 16px;
+    font-weight: 550;
+}
+
+/* section 1 start */
+
+
+.number1{
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 2200px;
+}
+
+.header_btnn{
+    background: #0000 !important;
+    border: none !important;
+    color: #000 !important;
+}
+
+.header_ul{
+    color: #000 !important;
+}
+
+.number1_box{
+    display: flex;
+    width: 100%;
+    height: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.number1_input{
+    width: 270px;
+    height: 36px;
+    border: 1px solid #343434;
+    
+}
+
+.number_img{
+
+}
+
+.number_box1{
+    width: 570px;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.number1_h2{
+    font-size: 19px;
+    font-weight: 500;
+    color: #4B4844;
+
+}
+
+.number1_p1{
+    font-size: 13px;
+    font-weight: 300;
+    color: #4B4844;
+    opacity: 80%;
+}
+
+.number1_text{
+    margin-left: 20px;
+}
