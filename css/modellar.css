@@ -205,6 +205,21 @@ header {
     margin-left: 20px;
 }
 
+
+
+.number1_input{
+    border: none !important;
+}
+
+[type=search] {
+    outline-offset: -20px !important;
+}
+
+.number_bttn{
+    border: none !important;
+    background: #0000;
+}
+
 /* footer start */
 
 footer{
