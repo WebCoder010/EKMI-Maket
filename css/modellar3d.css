@@ -317,3 +317,105 @@ header {
     width: 100%;
     justify-content: center;
     }
+
+/* section 3 start */
+
+.number3 {
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    height: 540px;
+
+}
+
+.number3_btn_box{
+    display: flex;
+    width: 100%;
+    border-radius: 0px !important;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 73px;
+}
+
+.number1_btn1{
+    width: 490px;
+    height: 73px;
+    border-radius: 1px !important;
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    border: 1px solid #34343433 !important;
+    border-radius: 0px !important;
+}
+
+.number1_btn2{
+    width: 300px;
+    height: 73px;
+    border-radius: 1px !important;
+    background: #fff !important;
+    color: #000 !important;
+    font-weight: 500 !important;
+    border: 1px solid #34343433 !important;
+
+
+}
+
+
+
+.number1_btn1:hover{
+    background: #F2F3F5 !important;
+    transition: 0.2s !important;
+    cursor: pointer !important;
+
+}
+
+.number1_btn2:hover{
+    background: #F2F3F5 !important;
+    transition: 0.2s !important;
+    cursor: pointer !important;
+
+}
+
+.number3_li{
+    list-style: disc !important;
+    color: #FF9619 !important;
+    display: flex;
+    width: 100%;
+    height: 35px;
+    justify-content: start;
+    text-align: start !important;
+}
+
+.number3_a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FF9619;
+
+}
+
+.number3_a:hover{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FF9619;
+}
+
+
+.number3_p1{
+    color: #000;
+}
+
+
+.number3_btn{
+    width: 342px;
+    height: 50px;
+    background: #FF9619;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 70%;
+}
+
