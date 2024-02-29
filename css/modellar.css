@@ -332,3 +332,254 @@ footer{
 }
 
 
+@media screen and (max-width: 1201px) {
+    .container {
+        width: 100%;
+    }
+
+    .number1_p1 {
+        font-size: 12px;
+        font-weight: 300;
+        color: #4B4844;
+        opacity: 80%;
+        width: 87%;
+    }
+
+    header {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 600px;
+    }
+
+    .hader_img {
+        width: 70%;
+        height: 140px;
+    }
+
+    .number_box1 {
+        width: 100%;
+        height: 210px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 50px auto;
+    }
+
+    .number1 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 1945px;
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+    .container{
+        width: 100%;
+    }
+
+    .head_asd {
+        margin: 0px auto !important;
+        display: none !important;
+    }
+
+    header {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 90px;
+    }
+
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        display: flex;
+        flex-wrap: inherit;
+        align-items: center;
+        justify-content: end !important;
+    }
+
+    .number_box1 {
+        width: 100%;
+        height: 210px;
+        display: flex;
+        align-items: center;
+        margin: 50px auto;
+        justify-content: start;
+    }
+
+    .number1 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 3400px;
+    }
+
+    .fot_btnn {
+        width: 100%;
+        height: 42px;
+        background: #FF9619 !important;
+        border: none !important;
+        color: #fff;
+    }
+
+    .number_box1 {
+        width: 100%;
+        height: 170px;
+        display: flex;
+        align-items: center;
+        margin: 50px auto;
+        justify-content: start;
+    }
+
+    .footer_img{
+        width: 95%;
+    }
+
+    .fot_a {
+        text-decoration: none;
+        color: #ffffff;
+        opacity: 80%;
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    .fott_imgg {
+        width: 24px;
+        height: 24px;
+    }
+    .fot_p {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        height: 70px;
+        color: #fff;
+        font-size: 15px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+
+    .number1_box {
+        display: flex;
+        width: 77%;
+        height: 24px;
+        justify-content: space-between;
+        align-items: center;
+        margin: auto;
+    }
+
+    .number1_input {
+        border: none !important;
+        width: 80%;
+    }
+
+
+}
+
+@media screen and (max-width: 536px) {
+    .container{
+        width: 100%;
+    }
+
+    .number_box1 {
+        width: 100%;
+        height: 170px;
+        display: flex;
+        align-items: center;
+        margin: 50px auto;
+        justify-content: start;
+        flex-direction: column;
+    }
+
+    .number1_h2 {
+        font-size: 19px;
+        font-weight: 500;
+        color: #4B4844;
+        text-align: center;
+    }
+
+    .number1_p1 {
+        font-size: 12px;
+        font-weight: 300;
+        color: #4B4844;
+        opacity: 80%;
+        width: 93%;
+        text-align: center;
+    }
+
+    .number_box1 {
+        width: 100%;
+        height: 250px;
+        display: flex;
+        align-items: center;
+        margin: 50px auto;
+        justify-content: start;
+        flex-direction: column;
+    }
+
+    .number1_box {
+        display: flex;
+        width: 77%;
+        height: 24px;
+        justify-content: space-between;
+        align-items: center;
+        margin: auto;
+        gap: 3px;
+        flex-direction: column;
+    }
+
+    .number1_input {
+        border: none !important;
+        width: 87%;
+    }
+
+    .number1 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 4280px;
+    }
+
+    .footer_img {
+        width: 45%;
+    }
+
+    .fot_col1{
+        display: flex;
+        justify-content: center;
+    }
+
+    .fot_p {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        height: 70px;
+        color: #fff;
+        font-size: 13px;
+        width: 166%;
+    }
+
+    .fot_box {
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+        height: 85px;
+    }
+
+    .fot_btnn {
+        width: 172%;
+        height: 42px;
+        background: #FF9619 !important;
+        border: none !important;
+        color: #fff;
+        font-size: 11px !important;
+    }
+
+}
