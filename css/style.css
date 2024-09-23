@@ -1636,6 +1636,46 @@ header {
         width: 69%;
     }
 
+    .number1 {
+        max-width: 1920px;
+        width: 100%;
+        height: 2206px !important;
+    }
+
+    .number4 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 1770px;
+    }
+
+    .number7_img {
+        position: relative;
+        margin: 30px auto;
+        width: 100%;
+        height: 102%;
+    }
+
+    .number8_img {
+        width: 100%;
+        height: 100%;
+        margin: 15px;
+    }
+
+    .number8 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 1130px;
+    }
+
+    .number4 {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 1753px;
+    }
+
     .number2_pp {
         font-size: 12px;
         font-weight: 400;

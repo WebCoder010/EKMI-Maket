@@ -504,3 +504,158 @@ footer{
 }
 
 
+@media screen and (max-width: 1201px){
+    .container{
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (max-width: 1025px){
+    .container{
+        width: 100%;
+    }
+
+    header {
+        max-width: 1920px;
+        width: 100%;
+        margin: auto;
+        height: 1050px;
+    }
+
+    .col_box {
+        background: url(../img/3\ \(2\)\ \(1\)\ kontakt.png) no-repeat center center / cover;
+        height: 431px;
+        margin: auto;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    .number1 {
+        max-width: 1920px;
+        width: 100%;
+        margin: 70px auto;
+        height: 2480px;
+    }
+
+    .number1_box_last{
+        display: none !important;
+    }
+
+    .fot_btnn {
+        width: 100%;
+        height: 42px;
+        background: #FF9619 !important;
+        border: none !important;
+        color: #fff;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+
+    .fot_btnn {
+        font-size: 12px !important;
+        width: 100%;
+        height: 42px;
+        background: #FF9619 !important;
+        border: none !important;
+        color: #fff;
+    }
+
+    .fot_col1{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .footer_img{
+        vertical-align: middle;
+        width: 200px;
+        height: 70px;
+    }
+}
+
+@media screen and (max-width: 536px){
+    .container{
+        width: 100%;
+    }
+
+    .header_h3 {
+        font-size: 21px;
+        font-weight: 600;
+        color: #FF9619;
+        margin: 10px auto;
+    }
+
+    .header_h4 {
+        font-size: 14px;
+        font-weight: 550;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .header_h4_1 {
+        font-size: 14px;
+        font-weight: 600;
+        color: #ffffff;
+        text-decoration: none;
+        width: 80%;
+    }
+
+    .header_A1 {
+        font-size: 14px;
+        font-weight: 400;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .number1_h6 {
+        font-size: 21px;
+        font-weight: 650;
+        color: #FF9619;
+        text-align: start;
+    }
+
+    .number1_h5 {
+        font-size: 14px;
+        font-weight: 650;
+        color: #fff;
+    }
+
+    .number1_h5 {
+        font-size: 13px;
+        font-weight: 650;
+        color: #fff;
+    }
+
+    .fot_p {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        height: 80px;
+        color: #fff;
+        width: 200%;
+    }
+
+    .fot_a {
+        text-decoration: none;
+        color: #ffffff;
+        opacity: 80%;
+        font-size: 12px;
+        font-weight: 600;
+        width: 66%;
+    }
+
+    .fot_btnn {
+        font-size: 12px !important;
+        width: 135%;
+        height: 42px;
+        background: #FF9619 !important;
+        border: none !important;
+        color: #fff;
+    }
+}
